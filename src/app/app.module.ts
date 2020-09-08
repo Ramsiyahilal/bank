@@ -10,7 +10,7 @@ import { LoginComponent } from './login/login.component';
     LoginComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule //test
   ],
   providers: [],
   bootstrap: [AppComponent]
